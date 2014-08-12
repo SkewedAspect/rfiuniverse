@@ -1,0 +1,19 @@
+{
+  "name": "rfi",
+  "version": "0.1.0",
+  "description": "A wiki for the rfi universe.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rfi",
+    "wiki"
+  ],
+  "author": "Christopher S. Case <chris.case@g33xnexus.com>",
+  "license": "MIT",
+  "dependencies": {
+    "tome": "^0.9.0",
+    "connect": "^2.17.3"
+  }
+}
